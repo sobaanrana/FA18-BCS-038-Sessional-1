@@ -121,6 +121,26 @@ nav li {
 
   }
 
-  .footerSocials{
-      float: right ;
+.footerSocials{
+      padding-left: 80%;
+      padding-top: 20px;
   }
+
+.fa-facebook:hover{
+    color: blue;
+}
+.fa-linkedin:hover{
+    color: blue;
+}
+.fa-twitter:hover{
+      color: blue;
+  }
+.fa-instagram:hover{
+    color: brown;
+}
+.fa-pinterest:hover{
+    color: red;
+}
+.fa-whatsapp:hover{
+    color:green;
+}
