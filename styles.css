@@ -104,6 +104,14 @@ nav li {
       padding: 50px;
   }
 
+.form-group {
+    background-color: blue;
+   
+}
+.form-group input {
+    width: 50%;
+    margin: 5px;
+}
   footer {
       background-color: #181828;
       color: #99A9B5;
@@ -144,3 +152,4 @@ nav li {
 .fa-whatsapp:hover{
     color:green;
 }
+
